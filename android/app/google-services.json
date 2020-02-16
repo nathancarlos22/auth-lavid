@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "668620758204",
+    "firebase_url": "https://lavid-autentication.firebaseio.com",
+    "project_id": "lavid-autentication",
+    "storage_bucket": "lavid-autentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668620758204:android:0b258cb3777318e6d204b9",
+        "android_client_info": {
+          "package_name": "com.projeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668620758204-qgncu3mo3mnhu1s542bc1k52oritq4db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvoYtILS2BftELFW3Lh_BHiWfADs9p2w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668620758204-qgncu3mo3mnhu1s542bc1k52oritq4db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

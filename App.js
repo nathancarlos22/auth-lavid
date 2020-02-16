@@ -40,7 +40,7 @@ export default createAppContainer(
       Loading: Loading,
       App: AppStack,
       Auth: AuthStack,
-      Auth2: AuthStack2
+     Auth2: AuthStack2
       
     },
     {
