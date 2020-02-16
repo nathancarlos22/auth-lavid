@@ -14,3 +14,7 @@ Autenticador login e cadastro
 
 
 ![cadastro](https://github.com/nathancarlos22/auth-lavid/blob/master/gifs/video2gif_20200216_062211.gif)
+
+### Funcao de Esqueci senha
+
+![forgot](https://github.com/nathancarlos22/auth-lavid/blob/master/gifs/20200216_072406.gif)
