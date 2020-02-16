@@ -1,2 +1,16 @@
 # auth-lavid
-Autenticador login e registro
+Autenticador login e cadastro
+
+### Tela inicial com autenticação
+
+![Tela-inicial](https://github.com/nathancarlos22/auth-lavid/blob/master/gifs/20200216_063110.gif)
+
+
+### Tratamento de erros de login
+
+![erros-login](https://github.com/nathancarlos22/auth-lavid/blob/master/gifs/20200216_062822.gif)
+
+### Tela de cadastro com tratamento de erros
+
+
+![cadastro](https://github.com/nathancarlos22/auth-lavid/blob/master/gifs/video2gif_20200216_062211.gif)
