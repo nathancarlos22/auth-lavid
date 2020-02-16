@@ -18,3 +18,7 @@ Autenticador login e cadastro
 ### Funcao de Esqueci senha
 
 ![forgot](https://github.com/nathancarlos22/auth-lavid/blob/master/gifs/20200216_072406.gif)
+
+### Link do apk
+
+https://drive.google.com/open?id=1FQybnn7hdbPgIoA0KhrV2wMlgMBmXS-n
