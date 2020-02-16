@@ -2,6 +2,7 @@ import Home from './src/components/Home'
 import Login from './src/components/Login'
 import Register from './src/components/Register'
 import Loading from './src/components/Loading'
+import ForgotPass from './src/components/ForgotPass'
 
 import { createAppContainer, createSwitchNavigator} from 'react-navigation'
 import { createStackNavigator } from 'react-navigation-stack'
@@ -28,12 +29,19 @@ const AppStack = createStackNavigator({
    Register: Register,
  })
 
+ const AuthStack2 = createStackNavigator({
+  Login: Login,
+  ForgotPass: ForgotPass
+})
+
 export default createAppContainer(
   createSwitchNavigator(
     {
       Loading: Loading,
       App: AppStack,
-      Auth: AuthStack
+      Auth: AuthStack,
+      Auth2: AuthStack2
+      
     },
     {
       initialRouteName: "Loading"

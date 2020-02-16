@@ -53,8 +53,14 @@ export default class App extends Component {
           </TouchableOpacity>
 
           <TouchableOpacity onPress={() => this.props.navigation.navigate("Register")}>
-            <Text>
+            <Text style={{padding: 10}}>
               Crie sua conta <Text style={{fontWeight: '500', color: '#E9446A'}}>Aqui</Text>
+            </Text>
+          </TouchableOpacity>
+
+          <TouchableOpacity onPress={() => this.props.navigation.navigate("ForgotPass")}>
+            <Text>
+              Esqueceu sua senha?  <Text style={{fontWeight: '500', color: '#E9446A'}}>Redefina aqui</Text>
             </Text>
           </TouchableOpacity>
 
